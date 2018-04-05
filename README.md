@@ -12,7 +12,7 @@ This notebook trains the SWAE on the MNIST dataset with a uniform distribution i
 
 
 
-### SWAE_MNIST_uniform.ipynb
+### SWAE_MNIST_circle.ipynb
 
 Similarly, this notebook trains the SWAE on the MNIST dataset with a disk distribution in the embedding space. The figure below visualizes the embedded data and the embedding space for the MNIST dataset:
 
