@@ -19,15 +19,19 @@ Similarly, this notebook trains the SWAE on the MNIST dataset with a disk distri
 ![](Figures/SWAE_circle.png)
 
 
+### SWAE_MNIST_ring.ipynb
+
+Similarly, this notebook trains the SWAE on the MNIST dataset with a ring distribution in the embedding space. The figure below visualizes the embedded data and the embedding space for the MNIST dataset:
+
+![](Figures/SWAE_ring.png)
+
+
 ### Pretrained Models
 
 The pretrained SWAE modules are also uploaded:
 
-* LearnedModels/MNIST_uniform_autoencoder.h5
-* LearnedModels/MNIST_uniform_encoder.h5
-* LearnedModels/MNIST_uniform_decoder.h5
-* LearnedModels/MNIST_circle_autoencoder.h5
-* LearnedModels/MNIST_circle_encoder.h5
-* LearnedModels/MNIST_circle_decoder.h5
+* LearnedModels/MNIST_uniform(circle)(ring)_autoencoder.h5
+* LearnedModels/MNIST_uniform(circle)(ring)_encoder.h5
+* LearnedModels/MNIST_uniform(circle)(ring)_decoder.h5
 
 
