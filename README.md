@@ -23,7 +23,7 @@ Similarly, this notebook trains the SWAE on the MNIST dataset with a disk distri
 
 Similarly, this notebook trains the SWAE on the MNIST dataset with a ring distribution in the embedding space. The figure below visualizes the embedded data and the embedding space for the MNIST dataset:
 
-![](Figures/SWAE_ring.png)
+![](Figures/SWAE_Ring.png)
 
 
 ### Pretrained Models
