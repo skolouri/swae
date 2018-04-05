@@ -8,7 +8,7 @@ This repository contains the implementation of our paper: "Sliced-Wasserstein Au
 This notebook trains the SWAE on the MNIST dataset with a uniform distribution in the embedding space. The figure below visualizes the embedded data and the embedding space for the MNIST dataset:
 
 
-![]{Figures/SWAE_uniform.png]
+![]{~/Figures/SWAE_uniform.png]
 
 The trained autoencoder modules are also uploaded:
 
@@ -20,7 +20,7 @@ The trained autoencoder modules are also uploaded:
 
 Similarly, this notebook trains the SWAE on the MNIST dataset with a disk distribution in the embedding space. The figure below visualizes the embedded data and the embedding space for the MNIST dataset:
 
-![]{Figures/SWAE_circle.png]
+![]{~/Figures/SWAE_circle.png]
 
 The trained autoencoder modules are also uploaded:
 
