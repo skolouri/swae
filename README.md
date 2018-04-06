@@ -1,6 +1,6 @@
 # SlicedWassersteinAE
 
-This repository contains the implementation of our paper: "Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model". The proposed method ameliorates the need for training adversarial networks in training generative models, and it provides a stable optimization while having a very simple implementation. 
+This repository contains the implementation of our paper: ["Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model"](https://arxiv.org/pdf/1804.01947.pdf). The proposed method ameliorates the need for training adversarial networks in training generative models, and it provides a stable optimization while having a very simple implementation. 
 
 
 ### SWAE_MNIST_uniform.ipynb
