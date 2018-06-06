@@ -1,7 +1,8 @@
 # SlicedWassersteinAE
 
-This repository contains the implementation of our paper: ["Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model"](https://arxiv.org/pdf/1804.01947.pdf). The proposed method ameliorates the need for adversarial networks in training generative models, and it provides a stable optimization while having a very simple implementation. 
+This repository contains the implementation of our paper: ["Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model"](https://arxiv.org/pdf/1804.01947.pdf) using Keras and Tensorflow. The proposed method ameliorates the need for adversarial networks in training generative models, and it provides a stable optimization while having a very simple implementation. 
 
+A PyTorch implementation of the SWAE algorithm was kindly provided by [Emmanuel Fuentes](https://github.com/eifuentes/swae-pytorch).
 
 ### SWAE_MNIST_uniform.ipynb
 
